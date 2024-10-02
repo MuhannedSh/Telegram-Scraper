@@ -17,29 +17,29 @@
 
   - The figure illsturate that the hightes telegram channel posts count from the selected channelsو in the period from Sep 20, 2024 to Sep 30, 2024 is from 'Fajer         news' with 2566 posts, followed by 'Ramallah news' with 1555 posts, while the lowest posts count is from 'meshheek telegram channel' with 363 posts within 10 days.
       
-  - **After further investigation we found the follow:**
+   - **After further investigation we found the follow:**
 
 
   
-  - **Fajer news:**
+    - **Fajer news:**
           - Instagram : 618K followers.
           - Facebook: 2M followers.
           - Telegram: 223K Subscribers
           - Official TV channel.
 
 
-  - **Ramallah news:**
+    - **Ramallah news:**
           - Instagram : 31.8K followers.
           - Facebook: 3.2M followers.
           - Telegram: 264K Subscribers
 
 
-  - **Almustashaar:**
+    - **Almustashaar:**
           - Instagram : 30.9K followers.
           - Facebook: no offical page.
           - Telegram: 788K Subscribers
       
-  - **Meshheek:**
+    - **Meshheek:**
           - Instagram : 39K followers.
           - Facebook: 9K followers.
           - Telegram: 476K Subscribers
