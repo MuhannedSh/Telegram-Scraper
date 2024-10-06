@@ -57,7 +57,7 @@ So there are insights indicating a relationship between number of the subscriber
 
 **For this stackholder question , i will apply two KPI:**
 
-  1- Number of interaction per post : This includes like, comments, views, and shares.
+  1- Number of interaction per channel : This includes like, comments, views, and shares.
 
   2-Engagement Rate:  The ratio of the number of interactions(likes, comments, shares, views) to the number of followers.
 
@@ -66,7 +66,7 @@ So there are insights indicating a relationship between number of the subscriber
 
 
 
-**1- Number of interaction per post:**
+**1- Number of interaction per channel:**
 
 ![download (5)](https://github.com/user-attachments/assets/c7e3e675-7b54-44f4-a7c1-1ca0c06e350d)
 
